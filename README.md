@@ -1,18 +1,54 @@
 # Data Science Portfolio - Foram Soni
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [foram.adeshara@gmail.com](foram.adeshara@gmail.com)
-- **LinkedIn**: [linkedin.com/foramsoni07](https://www.linkedin.com/in/foramsoni07/)
+Welcome to my Data Science & Data Analytics portfolio!
+This portfolio showcases a collection of projects that demonstrate my expertise in data analysis, machine learning, deep learning, data visualization, and business intelligence. It is a comprehensive compilation of my work, including projects completed for academic, self-learning, and hobby purposes. Additionally, this portfolio highlights my skills and certifications. I continuously update it to reflect my latest work and learning progress.
 
-## Achievements
+## 🔍 About Me:
 
-## Projects
+📊 Data Scientist | Data Analyst
+💡 Passionate about turning data into actionable insights
+🧠 Experienced in Python, SQL and Machine Learning
+🌍 Exploring AI, NLP, and Predictive Analytics
 
+## 📫 Let's Connect:
 
-## Core Competencies
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foramsoni07/)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/foramadeshara)
+- 📧 Email: [YOUR_EMAIL](mailto:foram.adeshara@gmail.com)
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+## 📂 Projects Overview
+
+### 📌 Machine Learning
+
+### 📌 Data Analysis & Visualization
+
+### 📌 SQL & Business Intelligence
+
+### **🛠 Skills & Technologies**
+
+| **Category**                        | **Tools & Technologies**                        |
+| ----------------------------------- | ----------------------------------------------- |
+| 📌 **Programming**                  | Python, SQL                                     |
+| 📊 **Data Analysis**                | Pandas, NumPy, Excel                            |
+| 📉 **Data Visualization**           | Matplotlib, Seaborn, Plotly                     |
+| 🤖 **Machine Learning**             | Scikit-Learn, TensorFlow, PyTorch, XGBoost      |
+| 🧠 **Deep Learning**                | Keras, TensorFlow, PyTorch                      |
+| 📈 **Time Series Analysis**         | Statsmodels, Scikit-Learn                       |
+| 📜 **Natural Language Processing**  | NLTK, spaCy, Hugging Face Transformers          |
+| 📊 **Statistics & Experimentation** | A/B Testing, Hypothesis Testing, Explainable AI |
+| 🏛️ **Databases**                    | MySQL, PostgreSQL, MongoDB                      |
+| 🌍 **Web Scraping**                 | BeautifulSoup                                   |
+| 🌍 **Repository**                   | Git                                             |
+| 🌍 **Cloud & Deployment**           | AWS, Flask                                      |
 
 ## Certificates
+
+- 🐍📊 Mastering Python for Data Professionals
+- 🎓📈 Applied Data Science Certification
+- 🛢️🔍 SQL for Data Science Excellence
+
+## ⭐ Support & Collaboration
+
+- 🔹 If you find my work helpful, feel free to star ⭐ this repository.
+- 🔹 I'm open to collaborations on data science projects! If you have an interesting idea, feel free to reach out.
+- 🔹 Looking for job opportunities in Data Science, AI, or Analytics.
